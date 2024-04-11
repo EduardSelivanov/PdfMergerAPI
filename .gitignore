@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /PdfMergerAPI/appsettings.json
+/PdfMergerAPI/FilesFolder/FinishedPDFs/merged.pdf
